@@ -1,7 +1,8 @@
 # Ten jumps with a L shape
 
-Just like bishop moves in chess.
+Just like knight moves in chess.
 
+Here is the keyboard :
 
 ```
 1 2 3
@@ -10,4 +11,5 @@ Just like bishop moves in chess.
   0
 ```
 
+We start with from a key, and jump n times.
 
